@@ -1,6 +1,6 @@
 Pull and Zoom
 =============
-pullAndZoom.js is a library that zoom the header while pulling a scrollable div, it mimic the behavior of the account card of the iOs native Twitter app. A small gif is worth a thousand words:
+pullAndZoom.js is a library that zoom the header while pulling a scrollable div, it mimic the behaviour of the profile card of the iOs native Twitter app. A small gif is worth a thousand words:
 
 Chrome on Android
 -----------------
